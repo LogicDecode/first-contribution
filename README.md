@@ -5,8 +5,9 @@ Want to start contributing to open source projects, start by make your first bas
 </p>
 
 ## How to Contribute
+* Star this repository.
 * Fork this repository.
-* Edit this README.md file to add your name at the **Contributors** section at the end in the given format.
+* Edit this **README.md** file and add your name at the **Contributors** section at the end in the given format.
 * Do not change anything other than adding your name, or else it will be rejected.
 * Commit and push the changes to your forked repository.
 * Make a pull request on the master branch.
