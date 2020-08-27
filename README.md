@@ -1,9 +1,6 @@
 # First Contribution
 Want to start contributing to open source projects, start by making your first basic contribution on this repository.
-<p align="center">
-<a href="https://www.youtube.com/channel/UC0C0ah0QiQc-5oiyvlQ67Uw/" target="_blank">
-<img src="https://github.com/rhythmbhiwani/first-contribution/blob/master/images/LogicDecodeLogoFull.png" alt="Logic Decode Logo" > </a>
-</p>
+[![Logic Decode Logo](https://github.com/rhythmbhiwani/first-contribution/blob/master/images/LogicDecodeLogoFull.png)](https://www.youtube.com/channel/UC0C0ah0QiQc-5oiyvlQ67Uw/)
 
 ## How to Contribute
 * Star this repository.
