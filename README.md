@@ -16,3 +16,4 @@ Want to start contributing to open source projects, start by making your first b
 
 # Contributors
 * Rhythm Bhiwani
+* Ipshita Ghosh
