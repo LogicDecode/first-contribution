@@ -18,3 +18,4 @@ Want to start contributing to open source projects, start by making your first b
 * Rhythm Bhiwani
 * Ipshita Ghosh
 * Vinamra
+* Harsh Soni
