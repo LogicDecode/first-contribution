@@ -17,4 +17,5 @@ Want to start contributing to open source projects, start by making your first b
 # Contributors
 * Rhythm Bhiwani
 * Ipshita Ghosh
-* [Harsh Soni](https://www.linkedin.com/in/harsh24soni/)
+* Vinamra
+* Harsh Soni
