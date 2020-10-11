@@ -20,3 +20,4 @@ Want to start contributing to open source projects, start by making your first b
 * Vinamra
 * Harsh Soni
 * Yogita sharma
+* Sanskriti
